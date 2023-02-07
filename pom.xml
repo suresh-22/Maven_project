@@ -26,6 +26,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distribution element>
+    <repository>
+      <url>http://3.20.233.93:8081/repository/rakesh-repositories/</url>
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
